@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_de_marcas">
+        <item>Alfa Romeo</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Citroën</item>
+        <item>Chevrolet</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Hyundai</item>
+        <item>Honda</item>
+        <item>Kia</item>
+        <item>Lancia</item>
+        <item>Land Rover</item>
+        <item>Lotus</item>
+        <item>Maserati</item>
+        <item>Mercedes-Benz</item>
+        <item>Opel</item>
+        <item>Peugeot</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Seat</item>
+        <item>Skoda</item>
+        <item>Subaru</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+</resources>
